@@ -5,3 +5,5 @@ gorilla glass
 
 elastic
 5G compatible
+
+5200 mah battery
